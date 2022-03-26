@@ -1,3 +1,3 @@
-# Test2
+# Test2 Repository
 
 Repository README :)
